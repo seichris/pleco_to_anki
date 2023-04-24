@@ -1,3 +1,5 @@
+This one or try https://jbuckland.com/2020/11/27/pleco-to-anki.html
+
 # pleco_to_anki
 
 A simple script to format pleco flashcard exports and convert it into an anki package
