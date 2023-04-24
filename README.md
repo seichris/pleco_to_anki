@@ -8,7 +8,7 @@ A simple script to format pleco flashcard exports and convert it into an anki pa
 
 ## Usage
 
-You have to use python to run this script. Install the requirements with pip install -r requirements.txt
+You have to use python to run this script. Install the requirements with `pip install -r requirements.txt`
 
 Export the flashcards you want from pleco (menu > import/export > export cards). Set the format to text file and character set to simplified, and check 'card definitions' and 'dictionary definitions'. Transfer the exported file to your computer
 
